@@ -22,10 +22,10 @@ A Python inventory and billing app with a **Streamlit web interface**. Manage pr
 ## 📸 Screenshots
 
 ### Sales dashboard
-![Sales dashboard](docs/dashboard.png)
+![Sales dashboard](Images/Dashboard.png)
 
 ### Generated PDF invoice
-<img src="docs/invoice.png" alt="Sample invoice" width="420">
+<img src="Images/Invoice.png" alt="Sample invoice" width="420">
 
 > **Tip:** add your own screenshots of the Products and New Sale pages to `docs/` and link them here.
 
@@ -167,5 +167,5 @@ Released under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
+**Man Ghadiya**
 GitHub: [Manghadiya230156](https://github.com/Manghadiya230156) 
