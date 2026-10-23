@@ -168,4 +168,4 @@ Released under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME) · LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+GitHub: [Manghadiya230156](https://github.com/Manghadiya230156) 
