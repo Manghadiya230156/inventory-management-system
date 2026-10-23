@@ -21,11 +21,15 @@ A Python inventory and billing app with a **Streamlit web interface**. Manage pr
 
 ## 📸 Screenshots
 
+
 ### Sales dashboard
+
 ![Sales dashboard](Images/Dashboard.png)
 
 ### Generated PDF invoice
-<img src="Images/Invoice.png" alt="Sample invoice" width="420">
+
+![Sample invoice](Images/Invoice.png)
+
 
 > **Tip:** add your own screenshots of the Products and New Sale pages to `docs/` and link them here.
 
